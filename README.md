@@ -1,48 +1,68 @@
 # Tarun Kumar Uttam
 
-<p align="center">
-  <strong>Building software, exploring AI, and turning ideas into useful products.</strong>
-</p>
+**Software Engineer · AI & Full-Stack Systems · Product Builder**
 
-<p align="center">
-  <a href="https://builtwithtarun.me">Website</a> ·
-  <a href="https://github.com/zastixx">GitHub</a> ·
-  <a href="https://dev.to/zastixx">Dev.to</a>
-</p>
+I build software to explore ideas and solve practical problems—from AI-powered applications and developer tooling to full-stack products. My approach is hands-on: understand the problem, build a working system, and iterate.
+
+[Website](https://builtwithtarun.me) · [GitHub](https://github.com/zastixx) · [Dev.to](https://dev.to/zastixx)
 
 ---
 
-I like connecting dots across software, AI, product thinking, and the problems people actually face. I learn by building—prototyping ideas, testing them, and improving them through real use.
+## Focus areas
 
-### What I'm exploring
-- AI applications, agents, and practical LLM workflows
-- Full-stack product development
-- Developer tools and automation
-- Open-source projects and early-stage product ideas
+- **AI & agent systems** — LLM applications, multimodal workflows, tool use, structured inference
+- **Full-stack engineering** — TypeScript, React, Next.js, Node.js, API design
+- **Data & backend** — Python, SQL, Supabase, Firebase
+- **Prototyping** — turning ideas into experiments, usable products, and open-source work
 
-### Selected projects
+## Selected work
 
-| Project | What it is |
-| --- | --- |
-| [OpenSolo](https://opensolo.netlify.app/) | A builder-focused platform for projects, reputation, and community challenges |
-| [ImageJev API](https://github.com/zastixx/imagejev-api) | Backend work for an AI-powered image project |
-| LinkWatch | A project focused on monitoring and useful web workflows |
+Projects are ordered by the engineering story they best represent—not by repository size.
 
-### Tools I work with
+### [ImageJev](https://github.com/zastixx/imagejev-api)
+An image-native structured decision engine built around frozen OpenCLIP embeddings. It maps image input to structured choice, score, or decision outputs without autoregressive text generation.
+
+**Python · PyTorch · OpenCLIP · FastAPI**
+
+### [Scentinel](https://github.com/zastixx/Scentinel)
+A community lost-dog verification concept combining image comparison, localized voice alerts, and recovery records on Solana Devnet.
+
+**React · TypeScript · Express · Supabase · Gemini · ElevenLabs · Solana**
+
+### [OpenSolo](https://github.com/zastixx/opensolo)
+A builder-oriented platform exploring project discovery, community participation, reputation, and challenges.
+
+**Product engineering · Web development**
+
+### [Agent-Based Internet OS](https://github.com/zastixx/agentic_os_dev)
+An experimental architecture for an internet operating system composed of cooperating agents.
+
+**Agent systems · API · Web application**
+
+### [Market Data Scraper](https://github.com/zastixx/Automated-Web-Scraper-for-Market-Data)
+A Python scraper for collecting e-commerce product data, price and review details, images, and structured CSV output.
+
+**Python · Selenium · Data extraction**
+
+### [Sewa Setu Assistant](https://github.com/zastixx/sewasetu-assistant)
+An agent-ready welfare portal concept with citizen and officer workflows, MCP interfaces, and authorization-based access.
+
+**Python · MCP · OAuth · AI agents**
+
+---
+
+## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,supabase,firebase,git,github,linux,figma" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,tailwind,supabase,firebase,postgres,git,linux" alt="Technologies" />
 </p>
 
-### Find me around the web
+## Connect
 
-- Website: [builtwithtarun.me](https://builtwithtarun.me)
-- GitHub: [@zastixx](https://github.com/zastixx)
-- Dev.to: [@zastixx](https://dev.to/zastixx)
-- Instagram: [@zastixx](https://instagram.com/zastixx)
+- [Personal website](https://builtwithtarun.me)
+- [GitHub](https://github.com/zastixx)
+- [Dev.to](https://dev.to/zastixx)
 
 ---
 
-<p align="center">
-  <i>Learning in public. Building things that matter.</i>
-</p>
+<sub>Learning through building. Interested in systems that are useful, understandable, and thoughtfully engineered.</sub>
