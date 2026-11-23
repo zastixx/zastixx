@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://builtwithtarun.me">Website</a> ·
   <a href="https://github.com/zastixx">GitHub</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://dev.to/zastixx">Dev.to</a>
 </p>
 
 ---
@@ -25,8 +25,8 @@ I like connecting dots across software, AI, product thinking, and the problems p
 | Project | What it is |
 | --- | --- |
 | [OpenSolo](https://opensolo.netlify.app/) | A builder-focused platform for projects, reputation, and community challenges |
-| [ImageJev](https://github.com/zastixx) | Exploring AI-powered image experiences |
-| [LinkWatch](https://github.com/zastixx) | A project focused on monitoring and useful web workflows |
+| [ImageJev API](https://github.com/zastixx/imagejev-api) | Backend work for an AI-powered image project |
+| LinkWatch | A project focused on monitoring and useful web workflows |
 
 ### Tools I work with
 
